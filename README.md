@@ -7,10 +7,10 @@ This was a base project, for testing and using **PassportJS** for authentication
 Though this project is no longer maintained(It's become part of the functioning Api system backend for **[ENUAME](https://enua.me)**, it is a great starter app to get you going and learning, just like I did.
 
 ## Project Code Structure:
-  - App Folder
-    - Config
-    - data
-    - templates
-    - www
-    - app.js
-    - package.json
+    - App Folder
+      - Config
+      - data
+      - templates
+      - www
+      - app.js
+      - package.json
