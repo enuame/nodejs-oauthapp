@@ -68,8 +68,8 @@ app.use(express.static(path.join(__dirname, 'public')));
 // HTTPS CERTS ====================
 
 const options = {
-    cert: fs.readFileSync('./config/certs/extnsion_co_uk.crt'),
-    key: fs.readFileSync('./config/certs/extnsion.co.uk.key')
+    cert: fs.readFileSync(''),
+    key: fs.readFileSync('')
 };
 
 // Routes =======================
