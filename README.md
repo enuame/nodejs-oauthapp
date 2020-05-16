@@ -18,6 +18,7 @@ Though this project is no longer maintained(It's become part of the functioning 
 ## Project Design:
 
 [EJS](https://ejs.co) // EJS uses template variables, so that you can modulate your design
+`<% include ./directory/src/header/header_template %>`
 
 [PassportJS](http://www.passportjs.org) // Passport is used for the authentication into the dashboard
 
