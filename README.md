@@ -21,7 +21,7 @@ Though this project is no longer maintained(It's become part of the functioning 
 
 `<% include ./directory/src/header/header_template %>`
 
-[PassportJS](http://www.passportjs.org) // Passport is used for the authentication into the dashboard
+[Passport.js](http://www.passportjs.org) // Passport is used for the authentication into the dashboard
 
      - Strategies
         - "passport-facebook": "^2.1.1",
