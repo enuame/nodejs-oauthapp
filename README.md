@@ -21,7 +21,7 @@ Though this project is no longer maintained(It's become part of the functioning 
 
 [PassportJS](http://www.passportjs.org) // Passport is used for the authentication into the dashboard
 
-     - Strategies // Already Implemented and working
+     - Strategies
         - "passport-facebook": "^2.1.1",
         - "passport-google-oauth": "^1.0.0",
         - "passport-google-oauth1": "^1.0.0",
