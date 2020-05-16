@@ -37,4 +37,4 @@ Though this project is no longer maintained(It's become part of the functioning 
 
 [Express.js](https://expressjs.com) // This is the functional and basic web server that drives the app.
 
-You can find all the included packages, in [packages.json[()
+You can find all the included packages, in [packages.json](https://github.com/enuame/nodejs-oauthapp/blob/master/Extnsion/package.json)
