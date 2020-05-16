@@ -21,7 +21,7 @@ Though this project is no longer maintained(It's become part of the functioning 
 
 [PassportJS](http://www.passportjs.org) // Passport is used for the authentication into the dashboard
 
-     - Configs // Working Authentication Strategies
+     - Strategies // Already Implemented and working
         - "passport-facebook": "^2.1.1",
         - "passport-google-oauth": "^1.0.0",
         - "passport-google-oauth1": "^1.0.0",
@@ -29,6 +29,6 @@ Though this project is no longer maintained(It's become part of the functioning 
         - "passport-mixer": "^1.0.1",
         - "passport-oauth1": "^1.1.0",
         - "passport-steam": "^1.0.10",
-         - "passport-twitter": "^1.0.4",
+        - "passport-twitter": "^1.0.4",
         - "passport-twitter-token": "^1.3.0",
         - "passport-windowslive": "^1.0.2",
